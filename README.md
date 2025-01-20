@@ -37,3 +37,5 @@ This Weather App provides real-time weather updates for **Gliwice** and **Hambur
   - npm run dev
 4. Open the app in browser
 
+ ![Weather](frontend/react-js/screen.png)
+
