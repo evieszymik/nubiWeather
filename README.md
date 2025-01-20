@@ -30,10 +30,10 @@ This Weather App provides real-time weather updates for **Gliwice** and **Hambur
 
 ### Local Deployment
 1. **Clone the repository:**
-2. navigate to the project directory
-  cd frontend
-  cd react-js
+2. Navigate to the project directory
+  - cd frontend
+  - cd react-js
 3. Start the application 
-  npm run dev
+  - npm run dev
 4. Open the app in browser
 
