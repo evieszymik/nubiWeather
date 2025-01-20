@@ -8,7 +8,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgb(53, 6, 80);
   background-color: #242424;
 
   font-synthesis: none;
@@ -20,13 +20,11 @@
 body {
   margin: 0;
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  justify-content: center;
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 4.2em;
   line-height: 1.1;
 }
 
@@ -36,3 +34,12 @@ h1 {
   padding: 2rem;
   text-align: center;
 }
+
+@media (max-width: 1300px){
+ :root{
+  font-size: 14px;
+ }
+}
+
+
+

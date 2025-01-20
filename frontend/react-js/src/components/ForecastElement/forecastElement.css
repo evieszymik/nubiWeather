@@ -1,0 +1,30 @@
+.element{
+    border: 1px solid black;
+    padding: 0.8rem;
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(130, 76, 239, 0.4);
+    border-radius: 10px;
+}
+
+.element > p {
+    color: black;
+}
+
+.iconSmall{
+    background-size: cover;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: rgb(17, 43, 43);
+}
+
+@media (max-width: 600px){
+   .element{
+    width: 45%;
+    margin-bottom: 10px;
+   }
+   }
